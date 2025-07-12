@@ -1,1 +1,2 @@
-Welcome to the project
+# ReWear
+Odoo  Hackathon 2025
